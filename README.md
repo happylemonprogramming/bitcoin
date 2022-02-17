@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lemon
+- 👀 I’m interested in bitcoin
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on the lightning network
+- 📫 How to reach me: Twitter @lemonknowsall
